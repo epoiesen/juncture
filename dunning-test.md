@@ -4,6 +4,8 @@
        author="Michael Given"
        banner="https://epoiesen.library.carleton.ca/imgs/Given/Given00_masthead.JPG" 
        layout="vertical">
+       
+<param ve-entity eid="Q1012257"> <!-- Dunning -->
 
 Michael Given
 _Received_ July 3rd 2020
@@ -26,6 +28,7 @@ Below I present the narrative I wrote in my notebook while walking, along with a
  <param ve-image
             label="Location map (from Given et al., 2019: 85). Background: EDINA Digimap. (Oscar Aldred)"
             url="https://epoiesen.library.carleton.ca/imgs/Given/Given02 Location map.jpg">
+ <param ve-map center="Q1012257" zoom="11">
                                                                                           
 In 2016, the challenge we faced was how to write up these ten seasons of systematic but small-scale and rather slow-moving walkover, where training students and facilitating in situ landscape interpretation took priority over speed and coverage. By then our core team was Oscar Aldred (aerial archaeology and mobility), Kevin Grant (historical archaeology and biography), Peter McNiven (place-names and landscape naming), Tessa Poller (Iron Age and memory), and myself (walkover survey and interaction). In that brief 2016 season we spent several days walking, discussing and planning our publications. In our final discussion, we decided that part of our agreed solution was a thorough descriptive and analytical narrative in a conventional academic format (subsequently published as Given et al. 2019). But that, we all agreed, should be complemented by more creative and experimental narratives exploring the themes of mobility, place, interaction, and memory.
 <br><Br>
