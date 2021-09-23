@@ -45,10 +45,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/5/56/Pan_copulating_with_goat_1.JPG">
 <param ve-map center="Q3523" zoom="11">
-<param ve-compare curtain 
-              url="https://raw.githubusercontent.com/shawngraham/demo/master/before.jpg">
-<param ve-compare 
-              url="https://raw.githubusercontent.com/shawngraham/demo/master/after.jpg">
+<param ve-compare curtain url="https://raw.githubusercontent.com/shawngraham/demo/master/before.jpg" label="thing I found">
+<param ve-compare url="https://raw.githubusercontent.com/shawngraham/demo/master/after.jpg" label="other thing I found">
 
 
 # References
