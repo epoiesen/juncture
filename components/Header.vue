@@ -92,7 +92,7 @@
 </template>
 
 <script>
-  const defaultBanner = 'https://picsum.photos/id/403/1000/400?blur=1'
+  const defaultBanner = 'https://epoiesen.library.carleton.ca/imgs/richardson/masthead.png'
 
   module.exports = {
     name: 've-header',
@@ -191,7 +191,7 @@
     font-family: Roboto, sans-serif;
     font-size: 1rem;
     min-height: 90px;
-    height: 1px;
+    height: 400px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
