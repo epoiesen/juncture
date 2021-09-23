@@ -1,16 +1,9 @@
----
-title: Walking from Dunning to the Common of Dunning
-author: Given, Michael
-date: 2020-06-18 14:15:53
-cover_index: /imgs/Given/Given00_cover.jpg
-cover_detail: /imgs/Given/Given00_masthead.JPG
-doi: 10.22215/epoiesen/2020.2
-tags:
-- landscape
-- path
-- Scotland
-- walking
----
+
+<param ve-config 
+       title="Walking from Dunning to the Common of Dunning"
+       author="Michael Given"
+       banner="https://epoiesen.library.carleton.ca/imgs/Given/Given00_masthead.JPG" 
+       layout="vertical">
 
 Michael Given
 _Received_ July 3rd 2020
