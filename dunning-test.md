@@ -8,17 +8,14 @@
 Michael Given
 _Received_ July 3rd 2020
 Citation: Given, Michael. 2020. "Walking from Dunning to the Common of Dunning". _Epoiesen_. DOI: http://dx.doi.org/10.22215/epoiesen/2020.2
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br>
-
-_Michael Given is Senior Lecturer in Archaeology at the University of Glasgow  (Michael.Given@glasgow.ac.uk). ORCID ID: [https://orcid.org/0000-0002-4450-381X](https://orcid.org/0000-0002-4450-381X)._
+<br><Br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br><br>_Michael Given is Senior Lecturer in Archaeology at the University of Glasgow  (Michael.Given@glasgow.ac.uk). ORCID ID: [https://orcid.org/0000-0002-4450-381X](https://orcid.org/0000-0002-4450-381X)._
 
 ## Preamble
 On 30 June 2016 I walked from Dunning to the Common of Dunning in the Ochil Hills of Perthshire in central Scotland. My overt aim was to trace the route of the 18th-century (and earlier) cattle and their herders from the lowland farms and estates of Dunning to their shared summer grazing up on the Common of Dunning. Much more than that, though, I wanted to experiment with new ways of engaging with and writing about landscape, moving away from the representation of a supposedly external landscape through photographs, maps and text (Hamilakis, 2013: 195). Instead, my idea was to use those same media to communicate a landscape performed as an active engagement among topography, plants, birds, soils, camera, my walking and sensing body, turf and stone dykes, fieldwalkers, farmers, rocks, colleagues, GPS satellites, memories, weather and many, many more.
 
 <param ve-image
        label="Fieldwalking above Scores Farm, 12 June 2010 (Michael Given)"
-       url="https://epoiesen.library.carleton.ca/imgs/Given/Given01 Fieldwalking.JPG)>
+       url="https://epoiesen.library.carleton.ca/imgs/Given/Given01 Fieldwalking.JPG">
 
 
 Below I present the narrative I wrote in my notebook while walking, along with automated photos taken by a GoPro camera, my route recorded by a GPS, and a range of other photos and maps from the wider field project. Before that, I will lay out the academic, social and landscape context of my walk, explore the sensory, performative and technological attributes of walking, and explain my methods. After the narrative, I will reflect on bodily engagement with landscape and how to communicate that.<br><Br>The walk took place during the last of ten seasons of walkover survey carried out as one relatively minor component of the University of Glasgow's [Strathearn Environs and Royal Forteviot](https://www.gla.ac.uk/schools/humanities/research/archaeologyresearch/currentresearch/serf/) field school and research project. The northern slopes of the Ochil Hills, looking over the valley floor of Strathearn, were rich in evidence for Iron Age hillforts, post-Medieval agriculture and pastoralism, and all sorts of issues of mobility, interaction and complex interconnection. Of particular interest was the relationship between arable cultivation and the twice-annual passage of cattle in the 17th-19th centuries.  
