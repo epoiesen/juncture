@@ -48,6 +48,13 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-compare curtain url="https://raw.githubusercontent.com/shawngraham/demo/master/before.jpg" label="thing I found">
 <param ve-compare url="https://raw.githubusercontent.com/shawngraham/demo/master/after.jpg" label="other thing I found">
 
+## Something Else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Bee_hummingbird_%28Mellisuga_helenae%29_immature_male.jpg" label="Bee hummingbird (Mellisuga helenae) immature male">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/a/ac/European_roller_%28Coracias_garrulus%29_2.jpg" label="European roller (Coracias garrulus)">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/9/98/Picoides_pubescens_f_CTB.jpg" label="Picoides pubescens">
+
 
 # References
 
