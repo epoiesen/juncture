@@ -40,7 +40,7 @@ One way of stimulating such narratives is through walking, hence my being dispat
 
 The key interface in all these relationships and actions is the surface of the ground. This interface between walker and the world is textured with information, variation, hazards and the actions of those track builders and travellers who have gone before you, as felt through the soles of your feet and your muscles and bones (Vergunst, 2008: 114; Gibson, 2015: 431). Working within this interface, we are 'grounded', 'in touch with our surroundings' (Ingold, 2004: 330). We interact with the traces of our human and nonhuman predecessors, and our footprints rework those textures for others to follow, interact with and learn from (Legat, 2008: 44-46). There are many such textures in my narrative below.
        
-       
+_This 3d model at right was not part of the original essay; this is just a test_       
 <param ve-iframe
             label="Sheep Shed, https://sketchfab.com/3d-models/sheep-shed-024cd7a8d35147c8b3e3064685c6bf4b"       
             src="https://sketchfab.com/models/024cd7a8d35147c8b3e3064685c6bf4b/embed">
