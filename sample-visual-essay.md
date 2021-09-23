@@ -41,7 +41,7 @@ Here, I've picked up the identifier number from the wikipedia page on Pompeii (u
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph. Here, you get a picture first; if you then click the 'location' icon, you get a map. I've given the 'map' parameter the wikidata identifier for the Secret Museum, where much of the erotic art found at Pompeii was kept safely away. I wonder if it'll display its location. Only one way to find out!<br>I tried to do an image compare as a third item in this panel, but it only seems to work if I do it in a separate panel.
+Others are selectable using icons displayed in the top right margin of the paragraph. Here, you get a picture first; if you then click the 'location' icon, you get a map. I've given the 'map' parameter the wikidata identifier for the Secret Museum, where much of the erotic art found at Pompeii was kept safely away. I wonder if it'll display its location. Only one way to find out!<br><br>I tried to do an image compare as a third item in this panel, but it only seems to work if I do it in a separate panel.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/5/56/Pan_copulating_with_goat_1.JPG">
 <param ve-map center="Q3523" zoom="11">
@@ -49,7 +49,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 ## Something Else
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The panel at right here is equipped with a 'swipe' feature to compare two images. Mouseover it to see it in action. <br><br>And now, some dummy text! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-compare curtain url="https://raw.githubusercontent.com/shawngraham/demo/master/before.jpg" label="Bee hummingbird (Mellisuga helenae) immature male">
 <param ve-compare url="https://raw.githubusercontent.com/shawngraham/demo/master/after.jpg" label="European roller (Coracias garrulus)">
 
