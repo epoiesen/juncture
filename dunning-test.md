@@ -39,11 +39,17 @@ One way of stimulating such narratives is through walking, hence my being dispat
             url="https://epoiesen.library.carleton.ca/imgs/Given/Given03 Fieldwalking.JPG">
 
 The key interface in all these relationships and actions is the surface of the ground. This interface between walker and the world is textured with information, variation, hazards and the actions of those track builders and travellers who have gone before you, as felt through the soles of your feet and your muscles and bones (Vergunst, 2008: 114; Gibson, 2015: 431). Working within this interface, we are 'grounded', 'in touch with our surroundings' (Ingold, 2004: 330). We interact with the traces of our human and nonhuman predecessors, and our footprints rework those textures for others to follow, interact with and learn from (Legat, 2008: 44-46). There are many such textures in my narrative below.
+       
+<param ve-image
+            label="Sheep Shed, https://sketchfab.com/3d-models/sheep-shed-024cd7a8d35147c8b3e3064685c6bf4b"       
+            url="https://sketchfab.com/models/024cd7a8d35147c8b3e3064685c6bf4b/embed">
 
 There can be interesting cultural variations in this interaction. Ingold has noted the role of boots and western culture in coming between us and the ground (2004). So did the military engineer Edmund Burt, stationed in Inverness in the late 1720s to build a series of military roads across the Highlands. In one of his letters he notes the differences between his own passage across a bog and that of his Highlander guide:
 
 > I was harassed on this slough, by winding about from place to place, to find such tufts as were within my stride or leap, in my heavy boots with high heels; which, by my spring, when the little hillocks were too far asunder, broke the turf, and then I threw myself down toward the next protuberance: but to my guide it seemed nothing; he was light of body, shod with flat brogues, wide in the soles, and accustomed to a particular step, suited to the occasion. (Burt, 1998 [1754]: 166).
 
+       
+       
 <p></p>
 
 Whatever common experiences of boots or tussock-jumping I might have with Edmund Burt, what follows is not phenomenology. I have no claim or desire to represent past human (or indeed bovine) experience based on my own. I am more interested in cultural differences than putative human universals (Johnson, 2012: 277), and reject any Heideggerian nostalgia for local, bounded experience as somehow more 'authentic' than the interconnected world that constitutes human society (Wylie, 2007: 181-82; Ingold, 2011: 12). There is one aspect of the critique of phenomenological approaches in archaeology, however, that is very relevant here. I was, at least on the face of it, a single white male, apparently using his solitary landscape experience to represent that of a range of very different others (Johnson, 2012: 277). This is worth bearing in mind as you read, and I will return to it after the narrative. Perhaps there were other landscape actors up there with me, both human and nonhuman.
