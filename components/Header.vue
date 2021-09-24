@@ -1,4 +1,3 @@
-<!-- 
 <template>
  <div ref="header" id="header-component" class="header" :style="containerStyle">
     
@@ -10,7 +9,7 @@
         <span></span>
         <ul id="menu">
 
-          <li @click="doMenuAction({action:'load-page', path:'https://epoiesen.library.carleton.ca'})"><i :class="`fas fa-home`"></i>Home</li>
+          <li @click="doMenuAction({action:'load-page', url:'https://epoiesen.library.carleton.ca'})"><i :class="`fas fa-home`"></i>Home</li>
 
           <!--  Adds menu items defined in site config.yaml -->
           <template v-for="(navItem, idx) in siteConfig.nav">
@@ -90,8 +89,6 @@
     
   </div>
 </template>
-
--->
 
 <script>
   const defaultBanner = 'https://epoiesen.library.carleton.ca/imgs/richardson/masthead.png'
