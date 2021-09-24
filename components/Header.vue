@@ -9,7 +9,7 @@
         <span></span>
         <ul id="menu">
 
-          <li @click="doMenuAction({action:'load-page', path:'../../../'})"><i :class="`fas fa-home`"></i>Home</li>
+          <li @click="doMenuAction({action:'load-page', path:'../../../../epoisen.library.carleton.ca'})"><i :class="`fas fa-home`"></i>Home</li>
 
           <!--  Adds menu items defined in site config.yaml -->
           <template v-for="(navItem, idx) in siteConfig.nav">
