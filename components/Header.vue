@@ -10,7 +10,7 @@
         <span></span>
         <ul id="menu">
 
-          <li @click="doMenuAction({action:'load-page', path:'/'})"><i :class="`fas fa-home`"></i>Home</li>
+          <li @click="doMenuAction({action:'load-page', path:'https://epoiesen.library.carleton.ca'})"><i :class="`fas fa-home`"></i>Home</li>
 
           <!--  Adds menu items defined in site config.yaml -->
           <template v-for="(navItem, idx) in siteConfig.nav">
@@ -50,7 +50,7 @@
 
           </template>
 
-          <li v-if="version"> <br><div class="version">Version: {{version}}</div></li>
+          <li v-if="version"> <br><div class="version">This visual essay is powered by Junction from JSTOR Labs, Version: {{version}}</div></li>
         </ul>
       </div>
     </nav>
