@@ -1,6 +1,6 @@
-
+<!-- 
 <template>
-  <div ref="header" id="header-component" class="header" :style="containerStyle">
+ <div ref="header" id="header-component" class="header" :style="containerStyle">
     
     <nav>
       <div id="menuToggle">
@@ -90,6 +90,8 @@
     
   </div>
 </template>
+
+-->
 
 <script>
   const defaultBanner = 'https://epoiesen.library.carleton.ca/imgs/richardson/masthead.png'
