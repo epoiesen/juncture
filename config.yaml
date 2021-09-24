@@ -1,0 +1,15 @@
+title: Epoiesen
+tagline: A Journal For Creative Engagement in History and Archaeology
+description: This portion of Epoiesen is powered by Juncture - An easy-to-use framework for building interactive visual essays and websites.
+banner: https://picsum.photos/id/857/1000/400
+#favicon: <favicon url>
+#logo: <logo url>
+
+# When using a custom domain these fields must be updated to match
+# the Github account and repository name
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
+
+######################################################
+# Defines options shown in the header navigation menu
+######################################################
