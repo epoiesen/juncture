@@ -9,7 +9,7 @@
 Michael Given
 _Received_ July 3rd 2020
 Citation: Given, Michael. 2020. "Walking from Dunning to the Common of Dunning". _Epoiesen_. DOI: http://dx.doi.org/10.22215/epoiesen/2020.2
-<br><Br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br><br>_Michael Given is Senior Lecturer in Archaeology at the University of Glasgow  (Michael.Given@glasgow.ac.uk). ORCID ID: [https://orcid.org/0000-0002-4450-381X](https://orcid.org/0000-0002-4450-381X)._
+<br><Br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br><br>_Michael Given is Senior Lecturer in Archaeology at the University of Glasgow  (Michael.Given@glasgow.ac.uk). ORCID ID: [https://orcid.org/0000-0002-4450-381X](https://orcid.org/0000-0002-4450-381X)._<br>Editorial note: this visual essay is powered by [Juncture](https://juncture-digital.org/) from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen. 
        
 <param ve-image  
        url="https://epoiesen.library.carleton.ca/imgs/Given/Given00_cover.jpg">
