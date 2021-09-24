@@ -5,7 +5,6 @@
        banner="https://epoiesen.library.carleton.ca/imgs/Given/Given00_masthead.JPG" 
        layout="vertical">
        
-<param ve-entity eid="Q1012257"> <!-- Dunning -->
 
 Michael Given
 _Received_ July 3rd 2020
@@ -17,7 +16,7 @@ Citation: Given, Michael. 2020. "Walking from Dunning to the Common of Dunning".
 
 ## Preamble
 On 30 June 2016 I walked from Dunning to the Common of Dunning in the Ochil Hills of Perthshire in central Scotland. My overt aim was to trace the route of the 18th-century (and earlier) cattle and their herders from the lowland farms and estates of Dunning to their shared summer grazing up on the Common of Dunning. Much more than that, though, I wanted to experiment with new ways of engaging with and writing about landscape, moving away from the representation of a supposedly external landscape through photographs, maps and text (Hamilakis, 2013: 195). Instead, my idea was to use those same media to communicate a landscape performed as an active engagement among topography, plants, birds, soils, camera, my walking and sensing body, turf and stone dykes, fieldwalkers, farmers, rocks, colleagues, GPS satellites, memories, weather and many, many more.
-
+<param ve-entity eid="Q1012257"> <!-- Dunning -->
 <param ve-image
        label="Fieldwalking above Scores Farm, 12 June 2010 (Michael Given)"
        url="https://epoiesen.library.carleton.ca/imgs/Given/Given01 Fieldwalking.JPG">
