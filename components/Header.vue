@@ -9,7 +9,7 @@
         <span></span>
         <ul id="menu">
 
-          <li> <a href="https://epoisen.library.carleton.ca"><i :class="`fas fa-home`"></i>Home</a></li>
+          <li> <a href="https://epoiesen.library.carleton.ca" target="_blank"><i :class="`fas fa-home`"></i>Home</a></li>
 
           <!--  Adds menu items defined in site config.yaml -->
           <template v-for="(navItem, idx) in siteConfig.nav">
