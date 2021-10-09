@@ -16,6 +16,10 @@ Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Ha
 
 This is a story of an earring.
 
+ <param ve-image fit="cover"
+       label="An Ugly Earring"
+       url="earring.png">
+
 An ugly earring.
 
 <param ve-image fit="cover"
