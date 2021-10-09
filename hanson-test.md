@@ -9,7 +9,7 @@ _Received_ October 1, 2021
 Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". _Epoiesen_. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
 <br><Br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br><br>_Rosemary Hanson is X at Y (email) _ORCID_.<br>Editorial note: this visual essay is powered by [Juncture](https://juncture-digital.org/) from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen. 
        
-<param ve-image fit="cover" 
+<param ve-image fit="contain" 
        url="jewellery-box.png">
 
 <param ve-entity eid="Q1012257"> <!-- Things to pull in from Wikidata go here -->
@@ -28,13 +28,13 @@ An ugly earring.
 
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
 
-<param ve-image fit="cover"
+<param ve-image fit="contain"
        label="Somewhere its twin might be found, perhaps beneath the refuse."
        url="dump.png">
 
 Yet, I cling to it: not for what it is, or what it was, or what it could be; not for its value, not for its beauty, not for the hope that I may someday wear it. I cling to it because it was hers: the property of a great aunt, Bea, now dead. I keep it because it is full of memories: the memory of childhood visits and the smell of old perfume and hospital disinfectant. The memory of a sombre distribution that I did not understand, and a jewellery box that I was too small to carry. The memory of a quiet presence, felt on the back of the neck in the superstitious hours. The memory of death and life and loss and obligation and the first thing I ever owned that glittered.
 
-<param ve-image fit="cover"
+<param ve-image fit="contain"
        label="A box of memories"
        url="memory-box.png">
 
@@ -42,7 +42,7 @@ In my archaeological education, I have spent a great deal of time exploring the 
 
 <param ve-image fit="cover"
        label="Haunted By Memories"
-       url="memory-box.png">
+       url="haunted.png">
 
 Bea, somehow, has made this object different.
 
