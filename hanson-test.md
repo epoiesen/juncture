@@ -51,6 +51,7 @@ Bea, somehow, has made this object different.
 This is the story of a material property that isn't. It is not visible, it is not quantifiable, it isn't even material. And yet, it is experienced (sometimes quite powerfully), and it has effects (sometimes quite dramatic).([^1]) It is the sense that objects are haunted: somehow changed by the persisting agency of the dead; by an intrusion of those gone onto the living experience of the material world, both literally and figuratively. Yet, however potent the effects may be, experiences of hauntedness are still highly personal, subjective, and individual and thus elude the project of objective realism that underpins grounded archeological study. By its affective nature, hauntedness is a sensory experience that cannot be measured, replicated, or recorded, and this makes its study resistive to traditional methods. Yet archeology is uniquely positioned to engage with these points of overlap between the objective and subjective: straddling the sciences, humanities, and social sciences. So, instead of resisting this intersection of objectivity and subjectivity, this paper seeks to engage with it directly: interweaving narrative, image production, and analysis to explore hauntedness as a property of objects. In doing so, I hope not only to define and validate hauntedness as an important aspect of object materiality, but also to encourage creative approaches to the complex, resistive, often immaterial materiality of objects.
 
 ## Hauntedness as a Material Property of Objects
+       
 To ask whether hauntedness is real is to ask the wrong question. The afterlife is a topic for philosophers, theologians, neuroscientists, and metaphysicians - and so I leave it to them. Instead, this paper approaches hauntedness through the lens of Material Culture Studies, in which material identities are co-constituted in the relationships between people and objects.([^2]) Physical attributes and social attributes both converge in the perception of the world and reality is constructed on this intersection .([^3]) Within this frame, it doesn't matter if the dead actually linger on the material plane. If reality is constructed around a metaphysics that includes hauntedness as a material property of the world, then individuals will interact with that world in reference to hauntedness.([^4]) As such, it is real enough. The mind is not so neatly separated from the body;([^5]) placebos, after all, can still heal the sick.([^6])
 
 Hauntedness is therefore a subjective property of object materiality. It is a property in which the dead imbue matter with agency. This agency may be physical ([^7]), magical, ([^8]) and/or emotional, ([^9]) but it is a power that emerges from biographical associations between people and things.([^10]) It is a persistence of entanglement between the dead, the living, and material objects in a panoply of configurations across time and space.([^11])
@@ -65,6 +66,8 @@ This paper does not seek to embark on such a project of meaning making (much les
 
 In failing to recognize these relational frameworks, my own experience of a haunted object simply does not exist.
 
+       
+ ## Footnotes
 
 [^1]: Mukharji, 2018, 35.
 [^2]: Holtorf 2002, 49; Ingold 2007, 1; Webmoor and Witmore 2008, 58.
