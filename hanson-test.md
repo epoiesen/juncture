@@ -9,8 +9,8 @@ _Received_ October 1, 2021
 Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". _Epoiesen_. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
 <br><Br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br><br>_Rosemary Hanson is X at Y (email) _ORCID_.<br>Editorial note: this visual essay is powered by [Juncture](https://juncture-digital.org/) from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen. 
        
-<param ve-image fit="contain" 
-       url="https://epoiesen.library.carleton.ca/imgs/Given/Given00_cover.jpg">
+<param ve-image fit="cover" 
+       url="jewellery-box.png">
 
 <param ve-entity eid="Q1012257"> <!-- Things to pull in from Wikidata go here -->
 
