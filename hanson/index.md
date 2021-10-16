@@ -10,8 +10,8 @@ Rosemary Hanson is a freelance archeological illustrator and 3D modeler (rosemar
 <br>
 <small><small>Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.</small></small>
 
-<param ve-image fit="contain"
-       url="ghostie.jpg">
+<param ve-image 
+       url="ghostie.png">
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
