@@ -7,8 +7,11 @@
 Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
 Creative Commons License
 Rosemary Hanson is a freelance archeological illustrator and 3D modeler (rosemary.m.hanson@gmail.com) ORCID.
-
+<br>
 <small><small>Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.</small></small>
+
+<param ve-image fit="contain"
+       url="ghostie.jpg">
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
