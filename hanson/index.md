@@ -1,7 +1,7 @@
 <param ve-config
        title="What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects"
        author="Rosemary Hanson"
-       banner="banner.png"
+       banner="banner.jpg"
        layout="vertical">
 
 Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
