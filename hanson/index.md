@@ -1,4 +1,4 @@
-<param ve-config 
+<param ve-config
        title="What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects"
        author="Rosemary Hanson"
        banner="3%20Forms%20of%20Hauntedness.png"
@@ -7,50 +7,42 @@
 Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
 Creative Commons License
 Rosemary Hanson is a freelance archeological illustrator and 3D modeler (rosemary.m.hanson@gmail.com) ORCID.
+
 Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.
 
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
 
-This is a story of an earring.
+This is a story of an earring.<br><br>An ugly earring.<br><br>Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer or the case of a second-hand shop or (most likely) underneath 200ft of Tacoma landfill. It is, without doubt, an object out of place. I keep it in my jewelry box, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
 <param ve-image
        label="Photograph of a clip-on earring from the late 20th century, composed of a brass mount and 8 glass gems. The earring was inherited from a female relative in the late 1990s and is currently in the possession of the author.
        description="Photo taken on a Nikon D3100 and the image was edited in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Gem%20Photograph.png">
 
-An ugly earring.
-<param ve-image
-       label="Photograph of a clip-on earring from the late 20th century, composed of a brass mount and 8 glass gems. The earring was inherited from a female relative in the late 1990s and is currently in the possession of the author.
-       description="Photo taken on a Nikon D3100 and the image was edited in the image manipulation software GIMP 2.10.22."
-       license="public domain"
-       url="Gem%20Photograph.png">
-
-Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer or the case of a second-hand shop or (most likely) underneath 200ft of Tacoma landfill. It is, without doubt, an object out of place. I keep it in my jewelry box, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
-<param ve-image
-       label="Photograph of a clip-on earring from the late 20th century, composed of a brass mount and 8 glass gems. The earring was inherited from a female relative in the late 1990s and is currently in the possession of the author.
-       description="Photo taken on a Nikon D3100 and the image was edited in the image manipulation software GIMP 2.10.22."
-       license="public domain"
-       url="Gem%20Photograph.png">
 
 Yet, I cling to it: not for what it is, or what it was, or what it could be; not for its value, not for its beauty, not for the hope that I may someday wear it. I cling to it because it was hers: the property of a great aunt, Bea, now dead. I keep it because it is full of memories: the memory of childhood visits and the smell of old perfume and hospital disinfectant. The memory of a somber distribution that I did not understand, and a jewelry box that I was too small to carry. The memory of a quiet presence, felt on the back of the neck in the superstitious hours. The memory of death and life and loss and obligation and the first thing I ever owned that glittered.
 <param ve-image
        label="Digitally framed photograph of the earring’s original owner, Bea Turnbull Samel."
        description="Original photograph was digitized from the collection of Bill and Marge Richie using a smartphone camera. The digital photograph was then digitally edited into a frame owned by the author using the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="beainframe1.png">
 
 In my archaeological education, I have spent a great deal of time exploring the properties of materials. I have tried to make sense of object materiality through measurement, weight, form, wear, illustration, reconstruction, sound, smell, heft, and feel. Yet in this lump of ugly brown glass, none of these really matter. Instead, I cannot relinquish it (though I might wish to) because it is imbued with a secret materiality that exists in my mind alone. I understand and interact with this object because it is haunted: by memory, by superstition, and by a link that still connects me to a woman decades dead.
-<param ve-image
+<param ve-compare curtain
        label="A 3D model of the earring created using the digital 3D modelling software, Blender."
        description="Model meshes were sculpted by hand using photographic references. Blender 2.93.5 was chosen after photogrammetric approaches failed due to the transparent, reflective materiality of the glass gems. Images were rendered using Eevee and then posed together using the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Model%20Spread2.png">
-<param ve-image
+<param ve-compare
        label="Detail of the 3D mesh in Blender 2.93.5."
        description="Screenshot of Blender 2.93.5 workspace during the process of editing the earring model mesh."
        license="public domain"
+       fit="contain"
        url="2021-08-18%20(3).png">
 
 Bea, somehow, has made this object different.
@@ -58,6 +50,7 @@ Bea, somehow, has made this object different.
        label="A framed photograph of Bea has been edited to include a halo, a motif from religious art used to denote sainthood [^72]. This saintly photograph posed with the earring is meant to evoke the small home shrines to Catholic Saints seen during the childhood of the author."
        description="Original photograph was digitized from the collection of Bill and Marge Richie using a smartphone camera. The image file was then digitally edited in the image manipulation software GIMP 2.10.22 along with images of the frame and earring taken using a smartphone camera from a Motorolla G8 Power.”
        license="public domain"
+       fit="contain"
        url="StPhotowithEarring.png">
 
 
@@ -68,6 +61,7 @@ This is the story of a material property that isn’t. It is not visible, it is 
        label="A Blender model of the earring spot lit against a grey background. This paper seeks to shine a metaphorical spotlight on a single object: an heirloom piece of costume jewelry. The image production in this paper seeks to center this object in its visualizations as a practice of slow archeology [^53][^77], presenting a single object within many different visual-theoretical frames. In doing so, this paper seeks to present a depth of visual approaches to small object visualization."
        description="Digital 3D model of a clip-on earring, produced in Blender 2.93.5. This image was produced using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee."
        license="public domain"
+       fit="contain"
        url="spotlight12.1.png">
 
 # Hauntedness as a Material Property of Objects
@@ -119,17 +113,17 @@ In failing to recognize these relational frameworks, my own experience of a haun
 # Humanist Problems Require Creative Solutions
 
 In exploring hauntedness as an immaterial material property of objects, tools for quantification are clearly inappropriate. Indeed, attempts to measure and record evidence of ghosts and spirits quickly diverge into the realms of ghost hunting [^3], spiritualism[^2], and pseudo-archeology[^9][^32]. Instead, subjective questions require a more subjective toolkit: one that engages this subjectivity, as opposed to resisting or obscuring it[^70]. This paper deploys two such tools to explore hauntedness as a material property of objects. The first is auto-ethnographic storytelling [^3][^30][^38], and the second is visual artistic practice[^22][^30][^70]. In doing so, I seek to demonstrate the ways that creative practice can be deployed to enrich more traditional forms of analysis.
-<param ve-image
+<param ve-compare curtain
        label= "Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape."
        license="public domain"
        description= "This photogrammetric data was produced from images taken on a Nikon D3100 Camera, compiled in Cloud Compare and exported to MeshLab."
        url="dot%20ghost.png">
-<param ve-image
+<param ve-compare
        label= "Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape." "
        description= "This photogrammetric data was produced from images taken on a Nikon D3100 Camera and compiled in Cloud Compare."
        license="public domain"
        url=“point%20ghost.png”>
-<param ve-image
+<param ve-compare
        label= " Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape.""
        description= "Photogrammetric data was compiled into a mesh in MeshLab and then exported to Blender. However, this resulted in a distorted mesh."
        license="public domain"
@@ -199,12 +193,12 @@ Hauntedness may therefore be quite literal, where objects are _possessed_ by an 
 ## I. Objects Possessed
 
 The first definition of hauntedness is the most literal: that of possession. Possession here is defined as the belief that an object is inhabited by a non-corporeal agent and imbued with the direct agency of the non-living. Often (though not exclusively) human, these actors are perceived by the senses: sight, smell, sound, touch, or even taste [^3][^2][^44][^49][^75]. A key affordance of these objects is their ability to house and/or facilitate direct encounters with the supernatural in a way that can be physically experienced – and to believers, photographed and measured [^3][^2]. These experiences are the acts of specific agents who – within the metaphysics of hauntedness – exist in the perceivable world [^3].
-<param ve-image
+<param ve-compare curtain
        label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]."
        description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a Blender 2.93.5 model of the earring in the image manipulation software GIMP 2.10.22."
        license="public domain"
        url="Ghost%20Bea4.png">
-<param ve-image
+<param ve-compare
        label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]."
        description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a Blender 2.93.5 model of the earring in the image manipulation software GIMP 2.10.22."
        license="public domain"
@@ -225,12 +219,12 @@ Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural h
        url="hauntedghost2.png">
 
 Places, too, often become the residence of ghosts and spirits, such as The Historic Cornwall Jail in Cornwall, Ontario, which advertises visitor experiences with hauntings. Visitors, staff, and paranormal investigators attest to both seeing and hearing paranormal actors [^49]. Mariana Lamas and Eduardo Giménez-Cassina outline instances of museum sites and objects that are perceived as haunted or have had paranormal incidents in the past few decades[^44]. So popular is this connection between heritage and possession, that a whole industry of dark tourism and ghost tours has sprung up around those seeking encounters with the dead [^3][^66].
-<param ve-image
+<param ve-compare curtain
        label="Glowing red eyes leering out of the darkness is a common trope folklore [^83] Here it is used as a visual metaphor for a sense of fear and foreboding that may surround objects perceived as haunted."
        description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
        url="eye%20glow%2010.png">                    
-<param ve-image
+<param ve-compare
        label="Glowing red eyes leering out of the darkness is a common trope folklore [^83] Here it is used as a visual metaphor for a sense of fear and foreboding that may surround objects perceived as haunted."
        description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
@@ -277,12 +271,12 @@ This concept of object aura is essentially an emotional manifestation of object 
        url="Tag.png">   
 
 The aura evoked with associations between objects and those that have died can manifest in purely empathic ways: a sense of awe[^12], empathy, dread[^66] closeness to celebrity or charismic authority[^15], morbid fascination[^66], respect[^25], historical authentication[^15][^20] or nostalgia[^6][^15]. This is particularly notable in celebrity possessions and memorabilia, from Theresa Tang’s watches[^20] to tickets to a David Bowie concert[^76], to a Manson family quilt[^15]. Objects act as material nodes in the entanglements between people, in which the charisma of the dead lingers through the objects were associated with.
-<param ve-image
+<param ve-compare curtain
        label= "This image draws from the lighting cues of horror films [^62] in order to evoke a sense of creepiness in the modeled earring."
        description="The models were created and lit in the digital 3D modelling software Blender 2.93.5 and rendered with Eevee. They were then arranged against a black background in the image manipulation software GIMP 2.10.22."
        license="public domain"
        url="Creepy%20Lighting.png">      
-<param ve-image
+<param ve-compare
        label="Using a visual conceit derived from video games [^82], these models were produced with an 'inner glow' of various colors to mark them out as special."
        description="The models were produced in the digital 3D modelling software Blender 2.93.5 and rendered in Eevee. Both inner glow and arrangement were them produced in the image manipulation software GIMP 2.10.22"
        license="public domain"
