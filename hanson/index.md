@@ -70,6 +70,7 @@ To ask whether hauntedness is _real_ is to ask the wrong question. The afterlife
        label="In this image, the archeological illustration of the earring is posed with two hands in a posture of recoil. Though this gesture is culturally contingent, so too is the reaction of trepidation, disgust, fear, or surprise that a ‘haunted’ object may evoke. This gesture is consistent with western reactions to hauntedness."
        description="The earring illustration was produced in the image manipulation software GIMP 2.10.22, using both a manually produced illustration and a photograph as references. Hands were then traced by the author in GIMP."
        license="public domain"
+       fit="contain"
        url="Recoil%20Hands.png">
 
 Hauntedness is therefore a subjective property of object materiality. It is a property in which the dead imbue matter with agency. This agency may be physical[^3], magical[^28][^55][^75], and/or emotional[^30][^38], but it is a power that emerges from biographical associations between people and things[^34][^42]. It is a persistence of entanglement between the dead, the living, and material objects in a panoply of configurations across time and space[^30][^71].In this sense, haunted objects are a prime example of mixtures[^71] or bundles[^4]. They are both subject and object, human and nonhuman, real and unreal, effected by and effecting human consciousness, and full of contradictions and bifurcations[^71]. They make the social physical and the physical social[^4], entangling, mixing, and distributing human consciousness and object materiality[^33]. They compress and distort time and disrupt the neat separation of past, present, and future[^30][^67].
@@ -77,6 +78,7 @@ Hauntedness is therefore a subjective property of object materiality. It is a pr
        label="Here, a photograph of the earring is shown as a node in a tangle of associations between past people, current people, objects, and academic pursuits. The images depict Bea as she lived, a framed photograph of Bea, a photograph of the author now and at around the time of Bea's death, as well as models and illustrations produced over the course of this project."
        description="Images were taken from the personal collections of the author as well as the photographic collections of Bea's relatives, Bill and Marge Richie and Amy Hanson. They were then compiled in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Web.png">
 
 It is precisely because haunted objects offer such a rich and complex materiality that they are useful for engaging archaeological theory. They provide an example of object agency derived from human subjects, yet at varying levels of intentionality[^4][^71]. They are vibrant matter, but it is a vibrancy that springs primarily from supernatural or affective sources as opposed to the materials of the objects themselves[^36][^55]. They are entangled, not only in “webs of life” [^37], but webs beyond life, where the dead remain enmeshed in the living world[^74] through their objects. Objects become links in a chain to nothing that nevertheless still hold the shape of that enchainment like a phantom limb [^4][^24]. Perhaps most fascinatingly, this resistant materiality can have a material expression. Haunted objects may evoke a sensory experiences that are both powerfully perceived and culturally constituted [^3][^2][^44][^49], complicating the frame of what constitute sensory approaches in archaeology.
@@ -85,6 +87,7 @@ It is precisely because haunted objects offer such a rich and complex materialit
        label="This image presents a metaphorical visualization of the ways in which objects act as nodes in social relationships, connecting human actors."
        description="Image was produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Holding%20Hands3.png">
 
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. These explorations of hauntedness might further appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
@@ -92,6 +95,7 @@ Yet for all that these objects can enrich explorations of object materiality, th
        label="The classic 'bedsheet' ghost that originated from the funerary practices of the European Middle Ages [^50] is a now ubiquitous cliché of hauntedness. As such, it can act as a visual shorthand for hauntedness, such as the renderings of Egyptian Shaitan added to images of Egyptian archaeology [^33]. In this image, however, a ghost is produced in a purposefully cartoonish way, as it is just such a childish, populist representation of haunting [^29][^40] that archeologists resist in their analysis of objects. It is therefore an image of what archeologists fear: that in exploring immaterial materialities of objects, they depart from a scientific, rational, and grounded study of the past."
        description="This image was produced using the image manipulation software GIMP 2.10.22."        
        license="public domain"
+       fit="contain"
        url="GhostsIllustration2.png">
 
 This paper does not seek to embark on such a project of meaning making (much less a project of ghost hunting). This paper instead seeks to recognize hauntedness as part of the “murk[y] middle ground” in explorations of folk ritual beliefs[^10]. It is a sphere of causality that exists in tandem with objective causality[^55]. By dismissing it, we may “build false assumptions about what the ‘real world’ is like”[^28], secularizing, rationalizing, and suppressing the often powerful effects of heritage[^11][^55]. As we collect a library of sensory experience through which to examine objects[^26][^27][^35], a focus on the physical senses alone may well be inconsistent with the ontologies that framed (and frame) the experience of the material world[^11][^28]. In failing to recognize that sensory experiences may be informed by these deep spiritual, cultural frameworks, we are doomed to an idea of sensitivity that is sanitized and one-dimensional.
@@ -99,6 +103,7 @@ This paper does not seek to embark on such a project of meaning making (much les
        label="Digital 3D modelling is often touted for its ability to present object dimensionality more accurately than ever before. Yet it also facilitates creative approaches to visualizing objects, allowing for the modeler to play with lighting, angle, texture, material, etc. As such, it is possible to explore the affective dimensionality [^38] of objects, through diverse approaches to staging, mood, evocation, etc."
        description="This image was produced in Blender 2.93.5 using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee. "
        license="public domain"
+       fit="contain"
        url="spotlight1.png">
 
 In failing to recognize these relational frameworks, my own experience of a haunted object simply does not exist.  
@@ -107,6 +112,7 @@ In failing to recognize these relational frameworks, my own experience of a haun
        label="The use of transparent figures to represent spirits or ghosts emerged in the 18th and 19th century[^51], and is deployed here as a visual metaphor for the ways in which objects remain a link between people, even after death."
        description="This image was produced using the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Holding%20Hands5.png">
 
 
@@ -134,6 +140,7 @@ Drawing from anthropology, the use of auto-ethnographic storytelling is quite co
        label="Photograph of the process of producing the auto-ethnographic account for this object."
        description="Photograph taken with the camera from a Motorolla G8 Power smartphone."
        license="public domain"
+       fit="contain"
        url="writing.jpg">
 
 Image production offers a different form of storytelling, but one in which the discipline is far less comfortable[^70]. Though social sciences, and particularly anthropology, have begun experimenting with new visual modes of engagement[^29], images are often still treated with suspicion or hostility [^53][^70]. Though a visually rich discipline [^64][^70] exposed to an increasingly rich visual media landscape[^61], archeology often struggles with visual literacy[^32][^40][^59][^63][^70]. There are fears that images are overly subjective in production[^52], interpretively unstable [^40][^70][^61], and able to achieve a false sense of authority, concealing nefarious theoretical or political intentions behind pleasant aesthetics[^32][^40][^53][^54][^52]. If the visual is associated with the real and objective[^55] and archeological images are expected to present authoritative and accurate depictions of the world [^70] any deviance from realism is a necessarily a betrayal of truth.
@@ -141,6 +148,7 @@ Image production offers a different form of storytelling, but one in which the d
        label="A classic archeological illustration for the Bea’s earring, produced in the diagrammatic style of the discipline."
        description="Digital archeological illustration was produced in the image manipulation software GIMP 2.10.22 from a digitized manual illustration and photographs of the artefact."
        license="public domain"
+       fit="contain"
        url=”Collected%20Illustration2.png”>
 
 
@@ -149,6 +157,7 @@ These fears are not unfounded, but stem from a foundational naiveté around the 
        label="This image attempts to present the earring in a 'sinister light' Drawing from films, plays, and other visual media, this image uses red light as a visual metaphor for danger[^78]."
        description="This image was produced using the 3D digital modelling software Blender 2.93.5. It was produced using a red-tinted spotlight and a plane in addition to the earring mesh and was rendered using Eevee"
        license="public domain"
+       fit="contain"
        url="spotlight9.png">
 
 
@@ -157,6 +166,7 @@ Each of these concerns can equally be levied at the written word: written analys
        label="Archeological illustration is presented as part of a logocentric method of classification in archeology [^70]. In this image, words are still the primary mode of communication with the illustration taking a secondary role."
        description="This image was produced using the image manipulation software GIMP 2.10.22. The illustration was produced from manual illustrations and photographs."
        license="public domain"
+       fit="contain"
        url="Word%20Cloud.png">
 
 
@@ -165,6 +175,7 @@ Yet, it is because of this very subjectivity that images can be useful to engage
        label="One of the simplest means of incorporating the subjective role of the archeological illustrator in image production is to literally include the illustrator in the image, in this case as a posed hand holding the object. This helps overcome the conceit of scientific illustrations as authorless and objective [^59]."
        description="This image was produced using the image manipulation software GIMP 2.10.22 from photographs of both the earring and the author’s hand."
        license="public domain"
+       fit="contain"
        url="Earring%20in%20hand4.png">
 
 Image production and storytelling have the capacity to engage with time, both in the temporal experience of making, and the ways in which time can be compressed into a single image[^29][^30][^53]. They allow for a more open-ended exploration of personal involvement, intuition, and affective experience[^63], and in doing so, offer a resistive means of knowledge production[^63][^70]. Yet these new and resistive ways knowledge production should not be seen as a replacements for traditional approaches to archeological material. Objective techniques are powerful and valuable in addressing objective questions. Yet these tools prove insufficient to examine the full spectrum of materiality. Instead, more subjective, creative approaches serve as a supplement to the existing approaches in archeology: offering access to new types of data to enrich the archeological record [^5][^70].
@@ -172,6 +183,7 @@ Image production and storytelling have the capacity to engage with time, both in
        label="The resistive agency of objects is not something that can be quantified, but it is nevertheless an element of object materiality that archeology is deeply interested in. Attempting to visualize this aspect of object materiality highlights the curious metaphorical materiality of archeological theory in which words shape the ways that objects are understood."
        description="The earring mesh was produced using the digital 3D modelling software Blender 2.93.5 and then rendered in Eevee. The image was then imported into the image manipulation software GIMP 2.10.22 and the halo was added."
        license="public domain"
+       fit="contain"
        url="halo2.4.png">
 
 # Case Studies
@@ -181,6 +193,7 @@ This paper will highlight 3 types of hauntedness that exist along a spectrum of 
        label="A visual outline of the three case studies to come: possession, aura, and memory."
        description="This image was produced using the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="3%20Forms%20of%20Hauntedness2.png">
 
 Hauntedness may therefore be quite literal, where objects are _possessed_ by an affecting agent directly. This is an occulted materiality that is most explicitly supernatural, in which ghosts and spirits of the dead act directly upon the living in material ways[^55]. Yet, hauntedness need not be so direct, with objects providing a conduit for _aura_: a non-living agency that presents as a charismatic or magical potency. Here, the dead themselves do not act upon the living, but imbue objects with a capacity to produce effects. Hauntedness may even be figurative, as an object triggers memory and emotion associated with the dead. This type of hauntedness encompasses the idea of spectrality: the spatio-temporal memory of an object, but this affectivity may not be entirely in the control of those in whom emotion and memory is provoked[^30]. Though aspects of hauntedness need not be mutually exclusive, this paper will examine each separately as a case study in exploring hauntedness using creative approaches.
@@ -188,6 +201,7 @@ Hauntedness may therefore be quite literal, where objects are _possessed_ by an 
        label="A visual outline of the three case studies to come: possession, aura, and memory."
        description="This image was produced using the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="3%20Forms%20of%20Hauntedness2.png">
 
 ## I. Objects Possessed
@@ -209,6 +223,7 @@ Belief in ghosts and spirits is hardly antiquated or remote but remains a persis
        label="Ghost orbs are an element of modern ghost hunting[^3], in which orbs caused by photographic backscatter are interpreted as images of the dead. This effect is here reproduced in the image manipulation software GIMP 2.10.22."
        description="The image was taken with the smartphone camera of a Motorolla G8 Power, and then edited with the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Ghost%20Orbs5.png">
 
 Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural heritage contexts. By far, the dominant representation of archaeological objects in modern cinema is in reference to their supernatural aspects[^32] and the media surrounding ghosts and hauntings has ballooned in recent years [^3]. More recently, the “spinning statuette” at the Manchester Museum was interpreted by the public as a “potential vessel for the spirit of a deceased ancient Egyptian” (among other interpretations). This led to a massive uptick in interest, popularity, speculation, enthusiasm, and museum attendance[^75]. The British Museum has also faced difficulty dispelling ideas of a “mummy’s curse” and malevolent spirits that linger around a 21st or 22nd dynasty mummy in their collection[^48].
@@ -216,6 +231,7 @@ Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural h
        label="A common representation of ghosts and spirits in popular culture and contemporary folklore is as a shadowy figure [^80]. Here, a spectral figure is layered into the background of an archeological model in order to convey the sense that the object is a conduit for the agency of the dead."
        description="The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="hauntedghost2.png">
 
 Places, too, often become the residence of ghosts and spirits, such as The Historic Cornwall Jail in Cornwall, Ontario, which advertises visitor experiences with hauntings. Visitors, staff, and paranormal investigators attest to both seeing and hearing paranormal actors [^49]. Mariana Lamas and Eduardo Giménez-Cassina outline instances of museum sites and objects that are perceived as haunted or have had paranormal incidents in the past few decades[^44]. So popular is this connection between heritage and possession, that a whole industry of dark tourism and ghost tours has sprung up around those seeking encounters with the dead [^3][^66].
@@ -236,6 +252,7 @@ Archaeologists are not immune from experiences with “other-than-human beings�
        label="Another popular visual trope in horror films is that of engulfing darkness [^81]. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects perceived as haunted."
        description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="hauntedghost1.png">
 
 Even now, when the paranormal is publicly denounced as harmful to the discipline[^32], there are still occasional allusions to such experiences among heritage professionals [^44][^49][^67]). Sitting around the sherd bucket at the end of the day, I have heard many a tenured professor recount stories of uncanny engagements with historical material: things falling in storerooms, footsteps in empty hallways, and dark shapes disappearing in the night. In these moments of camaraderie, in the hot sun or the cold musty dimness of the storeroom, we tell each-other stories of things we know to be unreal. Stories of an unexplained discomfort and unshakable unease. Stories of an illicit imaginary; dismissed yet persistent. Stories of the past spilling into the present from those charged with drawing firm lines between the two. Stories we keep telling.
@@ -244,6 +261,7 @@ Even now, when the paranormal is publicly denounced as harmful to the discipline
        label="In this image, the colors of a typical archeological illustration are inverted. Though a very simple intervention on an archeological illustration, it efficiently signals a divergence from the classic approach to object analysis without the loss of any diagrammatic information."
        description="This illustration was produced in the image manipulation software GIMP 2.10.22"
        license="public domain"
+       fit="contain"
        url="Collected%20Illustration%20inverted.png">
 
  Clearly, there is something in the experience of hauntedness that resists and endures.
@@ -252,6 +270,7 @@ Even now, when the paranormal is publicly denounced as harmful to the discipline
        label="Another popular visual trope in horror films is that of engulfing darkness [^81]. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects perceived as haunted."
        description="The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="hauntedghost1.png">
 
 ## II. Object Aura
@@ -261,6 +280,7 @@ A second definition of hauntedness relates to experiences of object aura[^31].  
        label="The concept of aura emerged from the context of Museum Studies in reference to the charisma of an authentic object [^12]. This image seeks to explore the aura-producing effect of museum display, by placing the modelled earring within a simplified sketch of the mount of a famous piece of 'cursed' jewelry, the Hope Diamond on display at the Smithsonian Institution’s National Museum of Natural History in Washington DC. [79]"
        description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Museum%20Case2.png">
 
 This concept of object aura is essentially an emotional manifestation of object biography. In the classical object-biographic approach, objects accumulate meaning through their social interactions, with the biography of the object framed by the ways it intersects with the biographies of human beings[^23][^42]. Though post-humanist approaches to objects have challenged this anthropocentric focus[^57][^34], these human entanglements are nevertheless deeply relevant to the auratic potency of objects [^15][^17]. In fact, it is this history of objects that generate this auratic quality which is then substantiated by its material properties[^31]. Objects become powerful in their associations with people, and they retain this power as part of their materiality[^15].
@@ -268,6 +288,7 @@ This concept of object aura is essentially an emotional manifestation of object 
        label="In cultural heritage contexts, labels are a primary medium by which objects are denoted as special [^8]. Archeological labels and museum labels each tie an object into an object biographical framework - relating the entanglements that separate an ordinary object from an extraordinary object."
        description="This image was produced using the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="Tag.png">   
 
 The aura evoked with associations between objects and those that have died can manifest in purely empathic ways: a sense of awe[^12], empathy, dread[^66] closeness to celebrity or charismic authority[^15], morbid fascination[^66], respect[^25], historical authentication[^15][^20] or nostalgia[^6][^15]. This is particularly notable in celebrity possessions and memorabilia, from Theresa Tang’s watches[^20] to tickets to a David Bowie concert[^76], to a Manson family quilt[^15]. Objects act as material nodes in the entanglements between people, in which the charisma of the dead lingers through the objects were associated with.
@@ -287,6 +308,7 @@ This aura may also have more practical effects, however, particularly in referen
        label="In this image, illustration, photography, and 3D modelling are deployed to represent 'holiness' through the application of halos drawn from religious art [^72]. This motif of halos is meant to convey a sense of sacredness for an object as well as the magical properties that accompany that sacredness."
        description="The modelled earrings in this image were produced and lit in the modelling software Blender 2.93.5 and rendered in Eevee. The photograph was taken with a Nikon D3100 Camera. Halos were produced variously in Blender and the image manipulation software GIMP 2.10.22. GIMP was also used to create the artefact illustration and background of the image."
        license="public domain"
+       fit="contain"
        url="Halos3.png">      
 
 The idea that objects have an emotional or quasi-magical power derived from their associations with people is a familiar concept in the study of cultural heritage[^12][^21][^68]. Yet this element of object materiality is strikingly subjective, contingent, and affective[^12][^31]. While the physical properties of an object, such as patina or damage, are relevant to these auratic experiences of awe[^12], the foundations of these experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. It is an experience that deviates from an agenda of objectivity, but which is accepted as a property of object materiality that is worthy of study [^12][^76]. What may set this immaterial materiality apart is the way in which its existence serves to legitimize the project of cultural heritage generally. If certain objects are inherently special, their study is inherently important[^12].
@@ -294,6 +316,7 @@ The idea that objects have an emotional or quasi-magical power derived from thei
        label="In this image, an English language idiom is translated into a visual image. The auratic experience of objects involves excepting those objects as uniquely important - to ‘put them on a pedestal.’"
        description="The photograph of the earring was taken on a Nikon D3100 Camera, and then edited into a sketch of both earring and pedestal produced in the image manipulation software GIMP 2.10.22."
        license="public domain"
+       fit="contain"
        url="DoublePedestal.png">
 
 ## III. Objects of Memory
@@ -303,6 +326,7 @@ A third distinct definition of hauntedness in objects, is when objects are imbue
        label= "Heirlooms seem to not only retain associations with people, but to provoke remembering. Here, the image of Bea is presented as part of the material of the earring itself."
        description="This image was produced from a 3D model produced in the digital 3D modelling software Blender 2.93.5 and rendered in Eevee. The model was then imported into the image manipulation software GIMP 2.10.22 where it was layered with a photograph of Bea from the collection of Bill and Marge Richie."
        license="public domain"
+       fit="contain"
        url="reflection3.png">                                                                                       
 
 In one way or another, all objects act as sites of memory[^51], but some objects have a particular potency in their associations with the dead. Roberta Gilchrist points to heirlooms, particularly as prompts for autobiographical memory. She links them to Mauss’s concept of inalienable objects that absorb the essence of the giver [^19]. In the most literal sense, they reflect the taste of the original owner, extending their material judgements beyond their lifespan[^20]. Yet they may also take the place of the dead, becoming the new site of memory and comfort when the human link is severed[^51]. Not only do they testify to the past [^15], but through this capacity to store and trigger memory[^30][^51] they allow the past to persist and the dead to remain entangled with the living. Thus, they are sites of haunting: not the literal vessels for spirits or conduits for undead power, but as tools through which the dead can be reanimated through the act of remembering. They are vessels that allow a return to a time before death[^30], and so keep the dead alive in affective experiences of the present.
@@ -310,6 +334,7 @@ In one way or another, all objects act as sites of memory[^51], but some objects
        label="Reconstruction of the earring worn by both the author and the original owner, Bea"
        description="This illustration was produced in the image manipulation software GIMP 2.10.22 from photographs of both Bea and the author."
        license="public domain"
+       fit="contain"
        url="FaceOff4.png">  
 
 
@@ -319,6 +344,7 @@ It is in this way that Bea’s earring is haunted, and why it seems to stand out
        label="This image reconstructs three hands from the biography of this object. The first is the hand of a North American woman in her early 80s. The second is the hand of a North American child of around 5-years-old. The third is the hand of the author herself, in her late 20s. All hands were reproduced with consent. This image provides a contrast between the hands that interacted with the object in the past, and those interacting with it now."
        description="This illustration was produced in the image manipulation software GIMP 2.10.22 from hand photographs.”
        license="public domain"
+       fit="contain"
        url="presence%20and%20absence2.png">
 
 Bea is dead, and I know that better than most. From the dispassionate detachment of prolonged excavation experience, I know that she is now a layer of grey ash in the dark, wet soil of a mid-range graveyard. Who knows how many great aunts have come under my trowel; their things bagged up and sent to storeroom basements. I deal in the science of death and loss and things decaying. I know how to measure bones and photograph coffin furniture and draw the little objects left behind. So, I really should know better. Decluttering is the fashion, now, and between moves and cleanouts and therapy sessions centered around my emotional relationship to stuff, I should have disposed of this little piece of kitsch long ago. I should have accepted that death is the end, that “acquits us of all obligations”
@@ -326,6 +352,7 @@ Bea is dead, and I know that better than most. From the dispassionate detachment
        label="This family photo, from the collection her cousins Bill and Marge Richie, shows Bea within the network of family and friends. These are the people who now remember her through the objects we inherited from her."
        description="Family photo from the collection of Bill and Marge Richie. Photo was digitized from the original using a smartphone camera."
        license="public domain"
+       fit="contain"
        url="Bea7.jpg">                                                     
 
 But I don’t want to. To throw it away would be “an act of deliberate amnesia”[^66], and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
@@ -333,6 +360,7 @@ But I don’t want to. To throw it away would be “an act of deliberate amnesia
        label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and[^30], in keeping them, we keep the shape of an obligation that no longer exists."
        description="This image was produced with the photo manipulation software GIMP 2.10.22 "
        license="public domain"
+       fit="contain"
        url="Holding%20Hands8.png">                                                       
 
  I want to remain haunted.
@@ -340,6 +368,7 @@ But I don’t want to. To throw it away would be “an act of deliberate amnesia
        label="Objects cast long shadows, both literally and figuratively. These metaphorical shadows may be more evocative than the objects themselves and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without their true dimensionality."
        description="This image was produced and lit in the digital 3D modelling software Blender 2.93.5 and rendered in Eevee."
        license="public domain"
+       fit="contain"
        url="shadowsquare2.png">
 
 # Conclusion
@@ -349,6 +378,7 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
        label="Objects cast long shadows, both literally and metephorically. These metephorical shadows may be far larger and more evocative than the objects themselves, and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without dimensionality."
        description="This image was produced and lit in the digital 3D  modelling software Blender 2.93.5 and rendered in Eevee."
        license="public domain"
+       fit="contain"
        url="shadowsquare2.png">
 
 # Acknowledgements
@@ -358,6 +388,7 @@ Thank you to Amy, for hunting down family photographs, to Bill and Marge, for th
        label="Objects cast long shadows, both literally and metephorically. These metephorical shadows may be far larger and more evocative than the objects themselves, and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without dimensionality."
        description="This image was produced and lit in the digital 3D  modelling software Blender 2.93.5 and rendered in Eevee."
        license="public domain"
+       fit="contain"
        url="shadowsquare2.png">                                                                                                      
 
 # References
