@@ -1,17 +1,15 @@
 <param ve-config
-       title="When the Dead Linger: Exploring Hauntedness as a Material Property of Objects"
-       author="Rosemary Hanson"
+       title="What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects - Rosemary Hanson"
        banner="3%20Forms%20of%20Hauntedness.png"
        layout="vertical">
 
-Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
+Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
 Creative Commons License
 Rosemary Hanson is a freelance archeological illustrator and 3D modeler (rosemary.m.hanson@gmail.com) ORCID.
 
 <small><small>Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.</small></small>
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
-
 
 This is a story of an earring.<br><br>An ugly earring.<br><br>Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer or the case of a second-hand shop or (most likely) underneath 200ft of Tacoma landfill. It is, without doubt, an object out of place. I keep it in my jewelry box, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
 <param ve-image
