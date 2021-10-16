@@ -8,8 +8,7 @@ Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "Wha
 Creative Commons License
 Rosemary Hanson is a freelance archeological illustrator and 3D modeler (rosemary.m.hanson@gmail.com) ORCID.
 
-Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.
-
+<small><small>Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.</small.</small>
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
